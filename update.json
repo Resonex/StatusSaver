@@ -2,5 +2,5 @@
   "versionCode": 1,
   "versionName": "1.1",
   "apkUrl": "https://github.com/Resonex/StatusSaver/releases/download/Updates/base.apk",
-  "changelog": "Fixed the duplicate cleanup bug. Added Recent/Expired filters."
+  "changelog": "Fixed Update issues"
 }
