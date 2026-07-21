@@ -2,5 +2,5 @@
   "versionCode": 2,
   "versionName": "1.2",
   "apkUrl": "https:\/\/github.com\/Resonex\/StatusSaver\/releases\/download\/v1.2\/StatusSaver.apk",
-  "changelog": "❍ Added Custom image and text watermarks\n❍ Added Reshare button \n❍ Added Smart Filter for status \n❍ UI improvement and stability"
+  "changelog": "Fixed update loop"
 }
