@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.1",
-  "apkUrl": "https:\/\/github.com\/Resonex\/StatusSaver\/releases\/download\/v1.1\/StatusSaver.apk",
-  "changelog": "⌬ Added image and text watermark\n⌬ Added storage selector for save\n⌬ Changed splash screen\n⌬ Added stickers section\n⌬ Added ability to delete status\n⌬ Status reshare now available"
+  "versionCode": 4,
+  "versionName": "1.4",
+  "apkUrl": "https:\/\/github.com\/Resonex\/StatusSaver\/releases\/download\/v1.4\/StatusSaver.apk",
+  "changelog": "‎⌬ Added Widgets\n‎⌬ Facebook, X, YouTube, Instagram downloaders\n‎⌬ Added Authentication locks\n‎⌬ Added folder saves\n‎⌬ Added shaped stickers \n‎⌬  Watermark size and location\n‎⌬ Improved Stability and bug fixes"
 }
