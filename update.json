@@ -2,5 +2,5 @@
   "versionCode": 4,
   "versionName": "1.5",
   "apkUrl": "https:\/\/github.com\/Resonex\/StatusSaver\/releases\/download\/v1.5\/StatusSaver.apk",
-  "changelog": "💣 Improved Stability \n💣 Added Universal downloaders\n💣 Improved stickers\n💣 Added download protection\n💣 Antiview once"
+  "changelog": "💣 Improved Stability\nSmoother performance with fixes for crashes and unexpected issues.\n💣 Universal Downloaders\nAdded support for downloading content from more platforms.\n💣 Enhanced Stickers\nImproved the sticker experience with better performance and usability.\n💣 Download Protection\nAdded protection features to help keep your downloads safe and reliable.\n💣 AntiView Once\nAdded support for viewing and saving View Once content.\n💣 Storage Management\nAdded new storage controls to help you manage where and how your downloaded content is saved."
 }
