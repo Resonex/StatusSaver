@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://statussaver-resonex.example.com/sitemap.xml
