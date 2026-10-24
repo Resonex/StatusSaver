@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.5",
-  "apkUrl": "https:\/\/github.com\/Resonex\/StatusSaver\/releases\/download\/v1.5\/StatusSaver.apk",
-  "changelog": "💣 Improved Stability\nSmoother performance with fixes for crashes and unexpected issues.\n💣 Universal Downloaders\nAdded support for downloading content from more platforms.\n💣 Enhanced Stickers\nImproved the sticker experience with better performance and usability.\n💣 Download Protection\nAdded protection features to help keep your downloads safe and reliable.\n💣 AntiView Once\nAdded support for viewing and saving View Once content.\n💣 Storage Management\nAdded new storage controls to help you manage where and how your downloaded content is saved."
+  "versionCode": 2,
+  "versionName": "1.0.1",
+  "apkUrl": "https:\/\/github.com\/Resonex\/StatusSaver\/releases\/download\/v1.0.1\/StatusSaver.apk",
+  "changelog": "For this update, you'll need to uninstall the current old app you have to be able to successfully install the new version, we're sorry for this but there was a change in sign keys and you'll face issues installing this new update if you still have the old one.\n\n\nYou can download the latest version from our official website, just open your chrome browser and type this exactly:\n\nhttps:\/\/astatus.name.ng \n\nOr\n\nastatus.name.ng\n\nand download the latest version. Thank you for using Astatus Saver."
 }
